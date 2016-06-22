@@ -1,8 +1,6 @@
 db.sqlite3
 *.pyc
 *.pyo
-*.log
-*.pot
 bin/
 build/
 develop-eggs/
